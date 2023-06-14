@@ -1,0 +1,18 @@
+.cardsstyle {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 150px;
+    background-color: #0A121F !important;
+}
+
+.mySwiper2 {
+    background-color: #0A121F;
+    display: flex;
+    padding-top: 100px;
+}
+
+@media(max-width:1800px) {
+    .mySwiper2 {
+        padding-left: 10%;
+    }
+}

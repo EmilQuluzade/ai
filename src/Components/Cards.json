@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "pic": "https://res.cloudinary.com/dqwaegmnr/image/upload/v1686047885/welcome-3_1-4_dkpvpa.png",
+        "heading" : "Naxly as the Winners in Global Agency Awards",
+        "paragraph": "Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+        "id": 2,
+        "pic": "https://res.cloudinary.com/dqwaegmnr/image/upload/v1686047886/welcome-3_1-2_ergvfb.png",
+        "heading" : "Expert Prespective Agency Awards",
+        "paragraph": "Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+        "id": 3,
+        "pic": "https://res.cloudinary.com/dqwaegmnr/image/upload/v1686047886/welcome-3_1-1_foonxp.png",
+        "heading" : "Business Prespective Global Agency Awards",
+        "paragraph": "Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+        "id": 4,
+        "pic": "https://res.cloudinary.com/dqwaegmnr/image/upload/v1686047885/welcome-3_1-3_omsd7f.png",
+        "heading" : "Value for Results in Global Agency Awards",
+        "paragraph": "Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+        "id": 5,
+        "pic": "https://res.cloudinary.com/dqwaegmnr/image/upload/v1686047885/welcome-3_1-4_dkpvpa.png",
+        "heading" : "Global Experience in Agency Awards",
+        "paragraph": "Lorem ipsum is placeholder text commonly used in print, and publishing industries for previewing layouts and visual mockups."
+    }
+]

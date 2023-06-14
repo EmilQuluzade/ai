@@ -1,0 +1,13 @@
+.comcon {
+    background-color: #0A121F;
+    display: flex;
+    justify-content: center;
+    padding-left: 10%;
+}
+
+@media(max-width:540px) {
+    .comcon {
+        padding-top: 30px;
+        padding-left: 100px;
+    }
+}

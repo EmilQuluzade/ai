@@ -1,0 +1,37 @@
+.middle {
+    background-color: #0A121F;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 80px;
+    align-items: center;
+}
+
+.middle img  {
+    padding-left: 10%;
+    max-width:725px ;
+    width: 100%;
+
+}
+
+.middle-right {
+    padding-right: 10%;
+}
+
+.middleh2 {
+    font-size: 40px;
+    line-height: 52px;
+    font-weight: 700;
+}
+
+.middlep {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+@media(max-width:1000px) {
+    .middle {
+        flex-direction: column;
+        gap: 40px;
+        justify-content: center;
+    }
+}

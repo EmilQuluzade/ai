@@ -1,0 +1,26 @@
+.solution {
+    background-color: #0A121F;
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    flex-wrap: wrap;
+}
+
+.solution img {
+    max-width: 642px;
+    min-width: 300px;
+}
+
+.solution .left p {
+    padding-top: 30px;
+}
+
+.object {
+    margin: 30px;
+}
+
+.solution h3 {
+    font-size: 40px;
+    font-weight: 700;
+    
+}
